@@ -13,7 +13,7 @@ ENV BUGZILLA_ROOT $BUGZILLA_HOME/devel/htdocs/bugzilla
 ENV BUGZILLA_URL http://localhost/bugzilla
 
 ENV GITHUB_BASE_GIT https://github.com/bugzilla/bugzilla
-ENV GITHUB_BASE_BRANCH 4.4
+ENV GITHUB_BASE_BRANCH 5.2
 ENV GITHUB_QA_GIT https://github.com/bugzilla/qa
 
 ENV ADMIN_EMAIL admin@bugzilla.org
